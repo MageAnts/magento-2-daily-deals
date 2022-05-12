@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Daily Deals Extension</h2>
+				<h1>Magento 2 Daily Deals Extension</h1>
 				<p>By using,<strong><a href="https://www.mageants.com/daily-deals-extension-for-magento-2.html">Magento 2 Daily Deals Extension</a></strong> the store owner allows the customers to get information about the day-to-day deals. This is a good solution to create urgency in the minds of the customers for buying multiple products at great discounts and offers. This is also a good option to increase sales.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Helps in customizing the graphics and visuals of the day-to-day offers.</li>
 						<li>Daily deals can be displayed on many pages of the website.</li>
